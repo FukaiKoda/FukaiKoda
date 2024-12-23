@@ -1,6 +1,3 @@
-👋 Hello there, world! I’m @FukaiKoda!
-✨ Welcome to my corner of GitHub!
-
 🚀 I’m diving deep into the exciting realm of Computer Science, where I get to explore the wonders of technology and innovation!
 
 💻 Right now, I’m on a journey to master the C programming language—a timeless classic that opens the door to understanding the very foundations of coding!
