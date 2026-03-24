@@ -1,49 +1,66 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=I'm+Hatim+Abdellaoui;Software+Engineer;1337+Coding+School" alt="Typing SVG" />
-  <h2>Full-Stack • Cloud Engineering • Systems Architect</h2>
-  <img src="https://img.shields.io/badge/1337_Network-42-black?style=flat-square&logo=42&logoColor=white" />
-
+  
+  
+  <p align="center">
+    <b>Full-Stack Developer • Software Engineer • Cloud Enthusiast</b>
+  </p>
+  <img src="https://img.shields.io/badge/1337_Network-42-black?style=for-the-badge&logo=42&logoColor=white" />
 </div>
+
+---
 
 ### 👨🏻‍💻 About Me
 
-- ⚙️ **Backend & Cloud-focused** Software Engineer (42 Network – 1337)
-- 🧠 **Systems-first mindset**: performance, correctness, and reliability
-- 🌐 Building backend services, containerized systems, and cloud-ready architectures
-- 🔬 Interested in **CloudOps**, platform engineering, and scalable infrastructure
+I'm a passionate **Software Engineer** specializing in **Full-Stack Development** and building robust, scalable applications. While my core focus is on creating elegant and performant full-stack solutions, I also bring a strong **DevOps & Systems** background to ensure everything runs smoothly from development to production.
+
+- 💻 **Current Focus:** Building scalable web applications and intuitive user interfaces.
+- ⚙️ **Systems Mindset:** Dedicated to performance, correctness, and reliable integrations in both front-end and back-end ecosystems.
+- ☁️ **Cloud & DevOps:** Experienced in containerization, CI/CD pipelines, and robust platform engineering.
+- 🎓 **Education:** 42 Network – 1337 Coding School.
 
 ---
 
 ### 🛠 Tech Stack
 
-#### 💻 Languages & Core
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+#### 💻 Programming & Scripting Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash Scripting](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🌐 Web & Frameworks
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![NextAuth](https://img.shields.io/badge/-NextAuth-333333?style=flat&logo=auth0)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
-![ShadcnUI](https://img.shields.io/badge/-ShadcnUI-333333?style=flat)
+#### 🌐 Frameworks
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-#### ☁️ Cloud & Infrastructure
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![YAML](https://img.shields.io/badge/-YAML-333333?style=flat&logo=yaml)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+#### 📚 Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 #### 🛢 Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### ☁️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
 <div align="center">
-  <sub>HATIM ABDELLAOUI | Software Engineer</sub>
+  <sub>HATIM ABDELLAOUI | Full-Stack SWE</sub>
 </div>
